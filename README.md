@@ -22,7 +22,7 @@ My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russ
 
 ## ⚙️ External JS libraries experience
 - [![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
-- ![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)
+- [![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)](https://reactrouter.com/en/main)
 - ![](https://img.shields.io/badge/Tools-ReactDnD-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)
 - ![](https://img.shields.io/badge/Tools-DayJS-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)
 - ![](https://img.shields.io/badge/Tools-LeafLet-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)
