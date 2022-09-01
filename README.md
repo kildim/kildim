@@ -18,7 +18,7 @@ My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russ
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 
 ## 🔧 Technologies uses
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
+[![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)](https://reactjs.org)
 
 ## ⚙️ External JS libraries experience
 - [![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)](https://redux.js.org)
