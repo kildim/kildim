@@ -11,20 +11,20 @@ My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russ
 </div>
 
 
-
-
-## 🔧 Technologies uses
+## 🛠️ Languages uses
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=redux&logoColor=white&color=2bbc8a)
+
+## 🔧 Technologies uses
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
 
 ## ⚙️ NPM libraries experience
+![](https://img.shields.io/badge/Tools-Redux-informational?style=flat&logo=redux&logoColor=white&color=informational)
+![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)
 ![](https://img.shields.io/badge/Tools-ReactDnD-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)
-
-
+![](https://img.shields.io/badge/Tools-DayJS-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)
 
 ## &#x1f4c8; GitHub Stats
 
