@@ -12,7 +12,7 @@ My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russ
 
 
 ## 🛠️ Languages uses
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
+[![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)](https://www.w3.org/TR/2011/WD-html5-20110405/)
 [![](https://img.shields.io/badge/Code-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)](https://www.w3.org/Style/CSS/specs.en.html)
 [![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)](https://www.ecma-international.org)
 [![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)](https://www.typescriptlang.org)
