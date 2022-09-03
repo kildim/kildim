@@ -25,8 +25,7 @@ My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russ
 - [![](https://img.shields.io/badge/Tools-ReactRouter-informational?style=flat&logo=reactrouter&logoColor=white&color=informational)](https://reactrouter.com/en/main)
 - [![](https://img.shields.io/badge/Tools-ReactDnD-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://react-dnd.github.io/react-dnd/about)
 - [![](https://img.shields.io/badge/Tools-DayJS-informational?style=flat&logo=reactdnd&logoColor=white&color=informational)](https://day.js.org/en/)
-- [![](https://img.shields.io/badge/Tools-LeafLet-informational?style=flat&logoColor=white&color=informational)]
-(https://mourner.github.io/Leaflet/index.html)
+- [![](https://img.shields.io/badge/Tools-LeafLet-informational?style=flat&logoColor=white&color=informational)}(https://mourner.github.io/Leaflet/index.html)
 - [![](https://img.shields.io/badge/Tools-ReactToastify-informational?style=flat&logoColor=white&color=informational)](https://github.com/fkhadra/react-toastify#readme)
 
 ## &#x1f4c8; GitHub Stats
