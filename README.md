@@ -1,6 +1,6 @@
 # Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" />
 
-My name is __Dmitry Kilin__ and I'm a starter front-end developer. I'm from Russia 🇷🇺.
+My name is __Dmitry Kilin__ and I'm a starter C++ and JS fullstack developer. I'm from Russia 🇷🇺.
 <div>  
   <a href="https://t.me/dmitrykilin">
     <img src="https://img.shields.io/badge/telegram-red?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
